@@ -38,7 +38,7 @@ por **Telegram** y **email con PDF**.
 
 ```bash
 # Clonar o descargar el proyecto
-cd 10_proyecto
+cd ia_agente
 
 # Instalar dependencias
 pip install openai yfinance fpdf2 requests matplotlib
@@ -76,7 +76,7 @@ EMAIL_DESTINO  = 'destino@gmail.com'
 ## Ejecución
 
 ```bash
-cd C:\Users\data_\Desktop\AGENTE\10_proyecto
+cd C:\Users\data_\Desktop\AGENTE\ia_agente
 python main.py
 ```
 
@@ -122,7 +122,7 @@ Confirmas el envio por Telegram y Email? (CONFIRMAR / no): CONFIRMAR
 ## Estructura del proyecto
 
 ```
-10_proyecto/
+ia_agente/
 │
 ├── main.py                          # Punto de entrada — bucle ReAct + Human-in-the-Loop
 ├── config.py                        # Credenciales, cliente Groq, SYSTEM_PROMPT
