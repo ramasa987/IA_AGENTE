@@ -1,4 +1,6 @@
-# 🤖 FinAlertBot — Agente de Alertas SP500
+<img width="1200" height="635" alt="Artboard-1" src="https://github.com/user-attachments/assets/feae3cc7-95b6-4ff4-8ab0-680adf251a39" />
+
+# FinAlertBot — Agente de Alertas SP500
 
 Agente de IA generativa que analiza acciones del índice **S&P 500** en tiempo real,
 genera señales técnicas de COMPRAR / MANTENER / VENDER y envía alertas automáticas
